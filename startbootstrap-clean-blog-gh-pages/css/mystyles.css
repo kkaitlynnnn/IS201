@@ -1,0 +1,48 @@
+h1{
+    color:beige;
+}
+.footer{
+    background-color:rgb(5, 173, 173);
+    height: 25px;
+    bottom: 0px;
+    position:fixed;
+    left: 5px;
+    right: 5 px;
+    padding-top: 15px ;
+    font-size: 12px;
+    width: 100%;
+}
+.header{
+    background-color:rgb(100, 93, 93);
+    text-decoration-color:beige;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+.common{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    
+
+}
+.center{
+    text-align:center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+ul{
+    margin: 0 auto;
+    display:inline-block;
+}
+ol{
+    text-align: 0 auto;
+    display: inline-block;
+}
+.mainbody{
+    background-color: rgb(250, 234, 215);
+}
